@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Question">Pregunta</string>
+    <string name="check">Comprova</string>
+    <string name="question_content">Quin és el país més gran del món?</string>
+    <string name="Correct">Correcte! :)</string>
+    <string name="Incorrect">Incorrecte! :(</string>
+    <string name="Empty">Prova!!</string>
+
+
+    <array name="answers">
+        <item>Rússia</item>
+        <item>Xina</item>
+        <item>Canadà</item>
+        <item>Estats Units</item>
+    </array>
+</resources>

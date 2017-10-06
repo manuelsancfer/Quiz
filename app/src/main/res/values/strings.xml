@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Question">Question</string>
+    <string name="check">Check</string>
+    <string name="question_content">What is the largest country in the world?</string>
+    <integer name="correct_answers">0</integer>
+    <string name="Correct">Correct! :)</string>
+    <string name="Incorrect">Incorrect :(</string>
+    <string name="Empty">Try!!</string>
+    
+    <array name="answers">
+        <item>Russia</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>United States</item>
+    </array>
+
+    <array name="all_questions">
+        <item>What is the largest country in the world?</item>
+        
+
+    </array>
+</resources>
